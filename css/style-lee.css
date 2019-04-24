@@ -88,6 +88,9 @@ a {
     border-radius: 12px;
     background-color: #ffffff;
 }
+.c333{
+    color: #333333;
+}
 .c666{
     color: #666666;
 }
@@ -133,6 +136,9 @@ a {
 .max-img img{
     width:100%;
     display: block;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
 }
 .mt-12{
     margin-bottom: 12px;
